@@ -147,3 +147,4 @@ src/.gitignore
 **/src/bin/*
 
 **/site-packages/*
+.vscode
