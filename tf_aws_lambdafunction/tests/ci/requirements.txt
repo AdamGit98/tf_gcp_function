@@ -1,0 +1,6 @@
+safety==2.3.5
+pylint==2.17.1
+pytest==7.2.2
+pymarkdownlnt==0.9.9
+yamllint==1.30.0
+flake8==6.0.0
